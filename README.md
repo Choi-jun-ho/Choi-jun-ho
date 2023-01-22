@@ -1,6 +1,9 @@
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]("https://day-log.tistory.com/)
+### :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://day-log.tistory.com/)](https://day-log.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junho74589@gmail.com)](mailto:junho74589@gmail.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:wnsgh745896@naver.com)](mailto:wnsgh745896@naver.com)
 
-### Skill
+### 💪 Skill
 Backend
 <p>
 	<a>
