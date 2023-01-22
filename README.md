@@ -42,7 +42,8 @@ Used at least once
 </p>
 
 ### Algorithsm Level
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsgh745896)](https://solved.ac/wnsgh745896)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnsgh745896)](https://solved.ac/wnsgh745896)
 
 ### Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
