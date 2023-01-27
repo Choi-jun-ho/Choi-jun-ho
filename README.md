@@ -70,5 +70,7 @@ Used at least once
 - 2022.12.02, 2022.12.07 : 인공지능 관련 보조강사
 - 2022.04.01 ~ 2022.12.31 : 국가 연구과제 생애첫 연구
 
-<!-- ### Domestic Publications -->
+### Academic Conference
+- 2022.10.21 ~ 2022.10.22 : 거울 신경 체계 모방을 위한 휴머노이드 로봇 기반 Human Pose Estimation(한국정보시스템학회 추계 학술대회)
+
 
